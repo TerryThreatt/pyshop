@@ -4,3 +4,6 @@ settings.py
 # vscode
 .vscode
 
+# files
+manage.py 
+
