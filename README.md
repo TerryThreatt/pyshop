@@ -1,6 +1,5 @@
-# pyshop
+# Pyshop
 
-## Working pages
----
+### Working Pages
 - /products
 - /admin
